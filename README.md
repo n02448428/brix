@@ -7,7 +7,7 @@ A modern take on the **classic Brick Breaker** game! Use your paddle to smash th
 
 ## Features  
 - **Classic arcade gameplay** – Break all the bricks to win!  
-- **Five levels (plus a secret level)** – Special bricks with unique effects  
+- **Five levels (plus a few secret levels)** – Hint: press '0' on title screen, additionally finish all five levels to unlock final secret!
 - **Smooth controls & physics** – Designed for satisfying gameplay  
 
 ## Controls  
